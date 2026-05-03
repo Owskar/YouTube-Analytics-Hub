@@ -2,7 +2,7 @@ import requests
 import csv
 
 # ================== CONFIG SECTION ====================
-API_KEY = 'AIzaSyAMOHoPJ4UQK15YVzJI8a2D8yoCGD-sTbw'  # <<< Replace this with your actual YouTube Data API v3 key
+API_KEY = 'YOUR_API_KEY'  # <<< Replace this with your actual YouTube Data API v3 key
 SEARCH_QUERY = 'Carry minati'  # <<< Search keyword (can loop different keywords to get diverse channels)
 MAX_CHANNELS = 10  # <<< How many channels you want
 OUTPUT_CSV = 'youtube_channels.csv'
